@@ -1,2 +1,2 @@
 # object-oriented-programming-java-
-All my projects from the course
+All my projects from the course Object Oriented Programming from the department of Applied Informatics in University of Macedonia (3rd semester). This repo contains all my projects from the course (except one that faces android applications), some might have errors that I can't explain their existance. The projects that contain other libraries are taken from the teacher's code while thw others are handwritten by me.
