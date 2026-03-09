@@ -1,0 +1,13 @@
+1750267800500	Rename type 'limits_catalog'
+1750267828404	Rename type 'old_orders'
+1750267858255	Rename compilation unit 'order_catalog.java'
+1750267898485	Rename type 'order_controller'
+1750269247527	Rename type 'order_data'
+1750269264489	Rename type 'orders_catalog'
+1750270773253	Rename type 'bulk_orders'
+1750270884325	Rename type 'customer_catalog'
+1750270898140	Rename type 'customer_data'
+1750271551395	Rename type 'stock_catalog'
+1750271570188	Rename type 'system2'
+1750278202406	Delete element
+1750278238631	Rename type 'Customer_data'
